@@ -1,0 +1,8 @@
+composer.lock
+
+/vendor/
+
+# Private Files
+client_secret.json
+api.json
+bot.json
